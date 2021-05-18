@@ -1,0 +1,30 @@
+{
+  "name": "Amongus",
+  "version": "0.0.1",
+  "description": "sus.",
+  "keywords": [
+    "sus",
+    "among us",
+    "amongoose",
+    "amongus"
+  ],
+  "homepage": "https://github.com/jonnelafin/amongus",
+  "bugs": {
+    "url": "https://github.com/jonnelafin/amongus/issues",
+    "email": "elias.eskelinen@protonmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonnelafin/amongus.git"
+  },
+  "author": "Elias Eskelinen \"jonnelafin\" <elias.eskelinen@protonmail.com> (jonnelafin.github.io)",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": false
+}
