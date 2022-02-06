@@ -1,2 +1,2 @@
 # Amongus
-sus.
+sussy baka.
