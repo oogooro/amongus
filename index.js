@@ -1,6 +1,6 @@
 function amongus(){
-	console.log("sus.");
-	return "sus.";
+	console.log("sussy baka.");
+	return "sussy baka.";
 }
 
 module.exports = amongus;
